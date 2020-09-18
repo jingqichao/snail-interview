@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/git-interview.iml" filepath="$PROJECT_DIR$/.idea/git-interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview01_equals/interview01_equals.iml" filepath="$PROJECT_DIR$/interview01_equals/interview01_equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview02_hashMap/interview02_hashMap.iml" filepath="$PROJECT_DIR$/interview02_hashMap/interview02_hashMap.iml" />
     </modules>
   </component>
 </project>
