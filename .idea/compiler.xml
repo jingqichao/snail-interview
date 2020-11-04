@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="interview02_hashMap" />
+        <module name="interview04_HashSet" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="inertview04_HashSet" target="1.5" />
+      <module name="interview02_hashMap" target="1.5" />
+      <module name="interview03_final" target="1.5" />
+      <module name="interview04_HashSet" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
