@@ -9,11 +9,13 @@
         <module name="interview06_change" />
         <module name="interview02_hashMap" />
         <module name="interview04_HashSet" />
+        <module name="ineteview07_HeapOOM" />
         <module name="interview05_String" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="inertview04_HashSet" target="1.5" />
+      <module name="ineteview07_HeapOOM" target="1.5" />
       <module name="interview02_hashMap" target="1.5" />
       <module name="interview03_final" target="1.5" />
       <module name="interview04_HashSet" target="1.5" />
