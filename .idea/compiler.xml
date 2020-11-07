@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="interview06_change" />
         <module name="interview02_hashMap" />
         <module name="interview04_HashSet" />
         <module name="interview05_String" />
@@ -17,6 +18,7 @@
       <module name="interview03_final" target="1.5" />
       <module name="interview04_HashSet" target="1.5" />
       <module name="interview05_String" target="1.5" />
+      <module name="interview06_change" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
