@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class HashMaPTest {
+public class HashMapTest {
 
     public static void main(String[] args) {
         //数组是连续的，链表不连续
@@ -35,6 +35,10 @@ public class HashMaPTest {
         System.out.println(result1);//null
         System.out.println(result2);//c
         //Entry(key,value,hash,next)
+
+
+
+
     }
 
 }

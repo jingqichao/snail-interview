@@ -3,13 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/git-interview.iml" filepath="$PROJECT_DIR$/.idea/git-interview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ineteview07_HeapOOM/ineteview07_HeapOOM.iml" filepath="$PROJECT_DIR$/ineteview07_HeapOOM/ineteview07_HeapOOM.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview01_equals/interview01_equals.iml" filepath="$PROJECT_DIR$/interview01_equals/interview01_equals.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview02_hashMap/interview02_hashMap.iml" filepath="$PROJECT_DIR$/interview02_hashMap/interview02_hashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview03_final/interview03_final.iml" filepath="$PROJECT_DIR$/interview03_final/interview03_final.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview04_HashSet/interview04_HashSet.iml" filepath="$PROJECT_DIR$/interview04_HashSet/interview04_HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview05_String/interview05_String.iml" filepath="$PROJECT_DIR$/interview05_String/interview05_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/interview06_change/interview06_change.iml" filepath="$PROJECT_DIR$/interview06_change/interview06_change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview07_HeapOOM/interview07_HeapOOM.iml" filepath="$PROJECT_DIR$/interview07_HeapOOM/interview07_HeapOOM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview08_Array/interview08_Array.iml" filepath="$PROJECT_DIR$/interview08_Array/interview08_Array.iml" />
     </modules>
   </component>
 </project>

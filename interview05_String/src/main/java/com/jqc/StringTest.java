@@ -14,5 +14,9 @@ public class StringTest {
         //当调用 intern() 方法时，编译器会将字符串添加到常量池中（stringTable维护），并返回指向该常量的引用。
         System.out.println(s1 == s2.intern());//true
 
+        String str = "abcdef";
+        int i = str.indexOf("b",5);
+        System.out.println(i);
+
     }
 }
